@@ -28,4 +28,6 @@ npm update
 php artisan serve
 ```
 
+## Have a preview of the project here -  https://youtu.be/XdRkK_2Hjs8
+
 
